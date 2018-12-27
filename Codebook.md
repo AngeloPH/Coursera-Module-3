@@ -1,6 +1,6 @@
 #### This file contains the list of variables for the final output data set, measure ####
 
-> ID - the identification number of each volunteer ranging from  to 
+> ID - the identification number of each volunteer ranging from 1 to 30
 > Activity - the name of activity done by each volunteer: walking, walking upstairs, walking downstairs, sitting, standing, and laying
 
 #### The following are the averages of the 86 variables of mean and standard deviation of the measurement on body accuracy, gravity accuracy, etc. ####
